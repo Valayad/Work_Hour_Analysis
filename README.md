@@ -13,3 +13,6 @@ Market expansion opportunities.
 ## Data Sources: CMS PBJ Dataset (2024Q1), Deficiency Reports, and Nursing Home Compare Data.
 ## Tools: Power BI, Excel.
 
+## DASHBOARDS
+![image](https://github.com/user-attachments/assets/4bb13fe1-7ae3-40e8-ad4a-a76aae9b1217)
+
