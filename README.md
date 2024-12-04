@@ -9,3 +9,7 @@ Ensure a long-term care staffing trends and patterns for Clipboard Health.
 Staffing allocations.
 High-demand regions.
 Market expansion opportunities.
+
+## Data Sources: CMS PBJ Dataset (2024Q1), Deficiency Reports, and Nursing Home Compare Data.
+## Tools: Power BI, Excel.
+
